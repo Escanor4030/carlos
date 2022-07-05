@@ -1,2 +1,3 @@
 # carlos
-Administração publica
+Administração pública
+vamos aprender sobre as metodologias
